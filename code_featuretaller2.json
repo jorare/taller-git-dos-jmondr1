@@ -1,0 +1,5 @@
+ for (num=1;num<=100;num++)
+{
+    if(num%5!=0){ // si no es multiplo de 5, realiza la instruccion.
+       System.out.print(num+",");
+}
